@@ -19,7 +19,7 @@
 
 -------------------------------------------------
 
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁](https://t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[BHATAKTI](https://t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK)
 
 -------------------------------------------------
 
