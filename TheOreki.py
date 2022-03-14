@@ -836,7 +836,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.account.UpdateProfileRequest(about=bio))
-                await event.edit("𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐂𝐇𝐀𝐍𝐆𝐄𝐃 𝐃𝐑𝐀𝐆𝐎𝐍 𝐁𝐈𝐎")
+                await event.edit("Successfully Bio Changed @TheOreki")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -878,7 +878,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=bc))
-                await event.edit("𝐃𝐑𝐀𝐆𝐎𝐍𝐒 𝐉𝐎𝐈𝐍𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐉𝐎𝐈𝐍𝐄𝐃✅")
+                await event.edit("@TheOreki 𝐉𝐎𝐈𝐍𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 𝐉𝐎𝐈𝐍𝐄𝐃✅")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -966,7 +966,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("ɪ ʟᴇᴀᴠᴇ ᴛʜɪs xʜᴜᴛɪʏᴀ ɢʀᴏᴜᴘ🤤")
+                await event.edit("Group Leaved Successfully")
             except Exception as e:
                 await event.edit(str(e))   
         else:
