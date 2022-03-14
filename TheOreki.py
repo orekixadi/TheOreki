@@ -1004,133 +1004,107 @@ async def start(event):
     if event.sender_id in SMEX_USERS:
      await idk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘🔥\n"                                
                               )
      await ydk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await wdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await hdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await sdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await adk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await bdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await cdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await edk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await hdk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await ddk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await vkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await kkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await lkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await mkk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await sid.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await shy.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await aan.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await ake.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await eel.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await khu.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await shi.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await yaa.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await dav.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await raj.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await put.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌
-🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )        
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.spam"))
