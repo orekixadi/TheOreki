@@ -1004,7 +1004,7 @@ async def start(event):
     if event.sender_id in SMEX_USERS:
      await idk.send_file(event.chat_id,
                                   USTAD_PIC,
-                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘🔥\n"                                
+                                  caption="𝐇𝐄𝐘 𝐒𝐏𝐀𝐌𝐌𝐄𝐑🔥\n𝐈 𝐀𝐌 𝐀𝐋𝐈𝐕𝐄🔥\n 𝐓𝐇𝐄 𝐎𝐑𝐄𝐊𝐈 𝐑𝐄𝐀𝐃𝐘 𝐅𝐎𝐑 𝐒𝐏𝐀𝐌🔥\n"                                
                               )
      await ydk.send_file(event.chat_id,
                                   USTAD_PIC,
