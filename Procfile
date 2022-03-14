@@ -1,1 +1,1 @@
-worker: python3 BHATAKTI_ATMA.py
+worker: python3 TheOreki.py
